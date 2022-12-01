@@ -7,8 +7,6 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import static java.lang.Math.abs;
-import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -19,7 +17,7 @@ import com.example.roguechesscapstone.pieces.Kni;
 import com.example.roguechesscapstone.pieces.Pa;
 import com.example.roguechesscapstone.pieces.PieceMov;
 import com.example.roguechesscapstone.pieces.Q;
-import com.example.roguechesscapstone.MainActivity2;
+
 
 
 import java.util.ArrayList;

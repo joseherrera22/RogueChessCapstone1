@@ -25,10 +25,7 @@
         <activity
             android:name=".pieces.B"
             android:exported="false" />
-        <activity
-            android:name=".Chess"
-            android:exported="false"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
         <activity
             android:name=".MainActivity2"
             android:exported="false" />
